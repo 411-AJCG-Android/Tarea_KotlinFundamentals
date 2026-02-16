@@ -69,9 +69,10 @@ fun main() {
     //Cambio que se me olvido por tonto!!!
     //Ultimo cambio de menso!!!
 
-    val variable
-    val testing
-    val nose
+    val variable =""
+    val testing= 2
+    val nose=1.0
+    //creando la funcionalidad de registrarse en la app
 
 }
 
