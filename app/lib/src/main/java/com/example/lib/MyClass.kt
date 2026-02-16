@@ -69,6 +69,9 @@ fun main() {
     //Cambio que se me olvido por tonto!!!
     //Ultimo cambio de menso!!!
 
+    val variable
+    val testing
+    val nose
 
 }
 
