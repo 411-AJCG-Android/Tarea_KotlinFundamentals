@@ -73,6 +73,7 @@ fun main() {
     val testing= 2
     val nose=1.0
     //creando la funcionalidad de registrarse en la app
+    // creando la conexion a la api
 
 }
 
