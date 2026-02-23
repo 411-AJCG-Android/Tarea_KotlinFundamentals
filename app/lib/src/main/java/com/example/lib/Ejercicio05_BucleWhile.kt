@@ -1,5 +1,9 @@
 package com.example.lib
 
+class Ejercicio05_BucleWhile {
+
+}
+
 // EJERCICIO 5: Bucle while
 // ========================================
 // Dado un numero, calcula la suma de sus digitos usando while.
