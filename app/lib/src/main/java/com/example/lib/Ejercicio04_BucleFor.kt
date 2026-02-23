@@ -1,8 +1,5 @@
 package com.example.lib
 
-class Ejercicio04_BucleFor {
-}
-
 // EJERCICIO 4: Bucle for con rangos
 // ========================================
 // Imprime la tabla de multiplicar del 7 (del 1 al 10).
